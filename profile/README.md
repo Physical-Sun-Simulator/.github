@@ -12,6 +12,7 @@ The physical sun simulator (PSS) on the TU/e campus was built approximately 30 y
 The organization hosts the following repositories:
 - **[astrolab](https://github.com/Physical-Sun-Simulator/astrolab)**
 - **[sun_position](https://github.com/Physical-Sun-Simulator/sun_position)**
+- **[simulation_interfaces](https://github.com/Physical-Sun-Simulator/simulation_interfaces)**
 
 ## Contribution Guidelines
 Please adhere to the following basic rules for contributing to one of the repositories:
