@@ -13,6 +13,7 @@ The organization hosts the following repositories:
 - **[astrolab](https://github.com/Physical-Sun-Simulator/astrolab)**
 - **[sun_position](https://github.com/Physical-Sun-Simulator/sun_position)**
 - **[simulation_interfaces](https://github.com/Physical-Sun-Simulator/simulation_interfaces)**
+- **[legacy_code](https://github.com/Physical-Sun-Simulator/legacy_code)**
 
 ## Contribution Guidelines
 Please adhere to the following basic rules for contributing to one of the repositories:
